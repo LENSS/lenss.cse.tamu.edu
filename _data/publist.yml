@@ -1,21 +1,21 @@
-- title: "Direct evidence for Cooper pairing without a spectral gap in a disordered superconductor above Tc"
-  image: Pairs3.png
-  description: We use our atomic-scale scanning tunneling noise setup on a disordered superconductor, and discover a state above TC that, much like an ordinary metal, has no (pseudo)gap, but carries charge via paired electrons.
-  authors: KM Bastiaans, D Chatzopoulos, J-F Ge, D Cho, WO Tromp, JM van Ruitenbeek, MH Fischer, PJ de Visser, DJ Thoen, EFC Driessen, TM Klapwijk, MP Allan
+- title: "R-MStorm: A Resilient Mobile Stream Processing System for Dynamic Edge Networks"
+  image: rmstorm.png
+  description: In this paper, we present R-MStorm, a resilient MSP system deployed at the edge. R-MStorm improves the system survivability by (1) assigning tasks to mobile devices with higher availability to improve the availability of whole system; (2) assigning tasks of the same application components to different devices to increase the diversity of physical stream paths.
+  authors: M. Chao, R. Stoleru
   link:
-    url: https://www.science.org/doi/10.1126/science.abe3987
-    display: Science 374, 608 (2021)
+    url: https://ieeexplore.ieee.org/document/9103478
+    display: IEEE International Conference on Fog Computing (ICFC), 2020
   highlight: 1
-  news2: See [Physics World](https://physicsworld.com/a/cooper-pairs-spotted-above-critical-temperature-for-superconductivity/), [SRON news](https://www.sron.nl/news/5169-elektronparen-blijven-stabiel-boven-kritische-temperatuur-supergeleiding), [TU Delft news](https://www.tudelft.nl/en/2021/eemcs/inexplicably-stable-electron-pairs-without-superconductivity), [Leiden news](https://www.universiteitleiden.nl/en/news/2021/10/new-quantum-liquid-discovered).
+  news2: 
 
-- title: "Imaging moiré deformation and dynamics in twisted bilayer graphene"
-  image: TBG_SL.png
-  description: Why is there so much variation in TBG devices? And are open devices more disordered than encapsulated ones? We introduce a new method to continuously map inhomogeneities of a moiré lattice and apply it to open-device TBG to show that twist angle variation is small over areas of hundreds of nm.
-  authors: TA de Jong, T Benschop, X Chen, EE Krasovskii, MJA de Dood, RM Tromp,  MP Allan, SJ van der Molen
+- title: "GROLL: Geographic Routing for Low Power and Lossy IoT Networks"
+  image: groll.jpg
+  description: In this article, we present the design and system implementation of the first Geographic Routing framework for Low Power and Lossy Networks (GROLL).
+  authors: M. Won, W. Zhang, C.-an Chen, R. Stoleru
   link:
-    url: https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.3.013153
-    display:  arXiv:2107.14716 (2021)
-  highlight: 0
+    url: https://www.sciencedirect.com/science/article/pii/S2542660519301313
+    display:  Elsevier Internet of Things - Engineering Cyber Physical Human Systems, 2019
+  highlight: 1
   news2:
 
 - title: "Measuring local moiré lattice heterogeneity of twisted bilayer graphene"

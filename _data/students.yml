@@ -8,16 +8,16 @@
 #  education3:
 #  education4:
 
-- name: Thijs van den Munckhof
-  photo: rock.jpg
-  info: Master student
-  email: m.ortego.larrazabal@umail.leidenuniv.nl
-  number_educ: 0
-  education1:
+- name: Matan Broner
+  photo: Anonymous.jpg
+  info: Masters student
+  email: mbroner@tamu.edu
+  number_educ: 1
+  education1: B.S., Computer Science, UC Santa Cruz, 2021
 
-- name: João van der Ven
-  photo: rock.jpg
-  info: BSc student
-  email: m.ortego.larrazabal@umail.leidenuniv.nl
-  number_educ: 0
-  education1:
+- name: Tian Liu
+  photo: Anonymous.jpg
+  info: Masters Student
+  email: tliu@tamu.edu
+  number_educ: 1
+  education1: (Insert education 1)
