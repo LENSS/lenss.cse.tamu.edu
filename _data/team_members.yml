@@ -18,8 +18,27 @@
 
 - name: Amran Haroon
   photo: anon.png
-  info: PhD, started (Insert date)
+  info: PhD, started 2018
   email: aharoon@tamu.edu
   number_educ: 2
   education1: (Insert education 1)
   education2: (Insert education 2)
+
+- name: Sangwoo Lee
+  photo: anon.png
+  info: PhD, started 2022
+  email: aharoon@tamu.edu
+  number_educ: 2
+  education1: (Insert education 1)
+  education2: (Insert education 2)
+
+- name: Dineth Dineth Gunawardena
+  photo: anon.png
+  info: PhD, started Fall 2023
+  email: pgunawardena@tamu.edu
+  number_educ: 3
+  education1: M.S., Electrical & Computer Engineering, University of Wisconsin-Madison, 2023
+  education2: M.S. Computer Engineering, University of Nebraska-Lincoln, 2022
+  education3: B.S., Computer Science & Computer Eng., University of Wisconsin-Madison, 2021
+
+
