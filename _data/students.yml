@@ -8,16 +8,16 @@
 #  education3:
 #  education4:
 
-- name: Matan Broner
-  photo: anon.png
-  info: Masters student
-  email: mbroner@tamu.edu
-  number_educ: 1
-  education1: B.S., Computer Science, UC Santa Cruz, 2021
+#- name: Matan Broner
+#  photo: anon.png
+#  info: Masters student
+#  email: mbroner@tamu.edu
+#  number_educ: 1
+#  education1: B.S., Computer Science, UC Santa Cruz, 2021
 
-- name: Tian Liu
-  photo: anon.png
-  info: Masters Student
-  email: tliu@tamu.edu
-  number_educ: 1
-  education1: (Insert education 1)
+#- name: Tian Liu
+#  photo: anon.png
+#  info: Masters Student
+#  email: tliu@tamu.edu
+#  number_educ: 1
+#  education1: (Insert education 1)
