@@ -1,6 +1,6 @@
-- name: Alumni 1
+- name: Mengyuan Chao
   photo: anon.png
-  duration: PhD, conferred 2007
+  duration: PhD, conferred 2020
   info: Lorem Ipsum
   email: alumni@tamu.edu
   number_educ: 1
@@ -8,3 +8,12 @@
   education2:
   education3:
   education4:
+
+- name: Ala Altaweel
+  photo: anon.png
+  duration: PhD, conferred 2019
+  info: Lorem Ipsum
+  email: alumni@tamu.edu
+  number_educ: 1
+  education1: (Insert education 1)
+  education2:
