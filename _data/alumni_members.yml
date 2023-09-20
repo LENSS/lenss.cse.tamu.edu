@@ -1,20 +1,20 @@
 - name: Matan Broner
   photo: anon.png
-  info: Masters student
+  info: M.S., Computer Engineering, August 2023
   email: mbroner@tamu.edu
   number_educ: 1
   education1: B.S., Computer Science, UC Santa Cruz, 2021
 
 - name: Tian Liu
   photo: anon.png
-  info: Masters Student
+  info: M.S., Computer Science, May 2023
   email: tliu@tamu.edu
   number_educ: 1
   education1: (Insert education 1)
 
 - name: Mohammad Sagor
   photo: anon.png
-  info: Masters Student
+  info: M.S., Computer Engineering, December 2021
   email: tliu@tamu.edu
   number_educ: 1
   education1: (Insert education 1)
